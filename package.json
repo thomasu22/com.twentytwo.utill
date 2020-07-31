@@ -1,0 +1,15 @@
+{
+  "name": "com.twentytwo.UtilL",
+  "version": "1.0.0",
+  "displayName": "UtilL",
+  "description": "Utility libary for every need",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {},
+  "keywords": [
+    "22"
+  ],
+  "author": {
+    "name": "thomasu22"
+  }
+}
