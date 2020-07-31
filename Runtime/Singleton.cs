@@ -4,7 +4,7 @@ namespace UtilL2
 {
     public class Singleton<T> : MonoBehaviour where T : Singleton<T>
     {
-
+        //The single instance
         public static T Instance { get; protected set; }
 
         public virtual void Awake()
